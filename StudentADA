@@ -1,0 +1,643 @@
+,ULCS Code,School Name,Average Daily Attendance (YTD)
+0,1010,John Bartram High School,77.27
+1,1020,West Philadelphia High School,80.34
+2,1030,High School of the Future,84.49
+3,1050,Paul Robeson High School for Human Services,91.5
+4,1100,William L. Sayre High School,82.52
+5,1130,William T. Tilden School,92.15
+6,1190,Motivation High School,92.66
+7,1200,John Barry School,82.96
+8,1230,William C. Bryant School,84.62
+9,1250,Joseph W. Catharine School,91.13
+10,1260,Benjamin B. Comegys School,82.81
+11,1280,Sadie Alexander School,96.69
+12,1290,Andrew Hamilton School,86.8
+13,1300,Avery D. Harrington School,88.48
+14,1340,Henry C. Lea School,91.38
+15,1350,William C. Longstreth School,87.14
+16,1360,Morton McMichael School,85.03
+17,1370,S. Weir Mitchell School,82.31
+18,1380,Thomas G. Morton School,88.95
+19,1390,Samuel Powel School,93.29
+20,1400,John M. Patterson School,89.04
+21,1410,James Rhoads School,84.3
+22,1420,Martha Washington School,86.3
+23,1440,Penrose School,86.07
+24,1460,Add B. Anderson School,86.29
+25,1470,Alain Locke School,87.21
+26,1490,Rudolph Blankenburg School,85.49
+27,1580,Middle Years Alternative School,91.44
+28,2000,South Philadelphia High School,78.07
+29,2010,Benjamin Franklin High School,80.47
+30,2020,High School for Creative and Performing Arts,92.84
+31,2050,Science Leadership Academy Middle School,97.47
+32,2140,Julia R. Masterman School,96.52
+33,2160,Furness High School,83.79
+34,2190,D. Newlin Fell School,90.94
+35,2210,Bache-Martin School,91.17
+36,2240,F. Amedee Bregy School,88.71
+37,2260,George W. Childs School,90.12
+38,2290,Franklin Learning Center,88.18
+39,2320,Stephen Girard School,87.25
+40,2340,General George A. McCall School,95.87
+41,2370,Delaplaine McDaniel School,83.47
+42,2380,William M. Meredith School,95.77
+43,2390,Robert Morris School,87.57
+44,2410,Girard Academic Music Program,95.5
+45,2450,Edwin M. Stanton School,90.2
+46,2470,Albert M. Greenfield School,95.23
+47,2480,Chester A. Arthur School,92.65
+48,2490,Laura W. Waring School,84.52
+49,2510,Fanny Jackson Coppin School,94.7
+50,2520,Abram S. Jenks School,94.03
+51,2540,Francis S. Key School,90.74
+52,2580,Eliza B. Kirkbride School,94.76
+53,2590,George W. Nebinger School,93.56
+54,2620,Academy at Palumbo,94.95
+55,2630,George W. Sharswood School,90.2
+56,2640,Southwark School,94.06
+57,2650,Science Leadership Academy,94.32
+58,2670,Constitution High School,87.81
+59,2680,The Science Leadership Academy at Beeber,94.17
+60,2690,John H. Taggart School,92.2
+61,2720,Vare-Washington School,92.63
+62,4020,Overbrook High School,76.18
+63,4030,High School of Engineering and Science,94.34
+64,4060,Murrell Dobbins Career and Technical High School,78.62
+65,4140,Strawberry Mansion High School,75.02
+66,4220,James G. Blaine School,83.94
+67,4240,Lewis C. Cassidy Academics Plus School,85.93
+68,4270,William Dick School,83.38
+69,4280,Samuel Gompers School,90.7
+70,4300,Edward Heston School,84.07
+71,4320,Robert E. Lamberton School,87.05
+72,4350,E. Washington Rhodes School,84.69
+73,4360,Kenderton Elementary School,84.85
+74,4370,Overbrook Elementary School,88.04
+75,4380,Thomas M. Peirce School,86.36
+76,4440,Dr. Ethel Allen School,83.13
+77,4460,Tanner G. Duckrey School,83.46
+78,4470,Richard R. Wright School,85.49
+79,4480,Overbrook Educational Center,93.96
+80,4530,Edward Gideon School,83.92
+81,4560,William D. Kelley School,90.35
+82,4570,General George G. Meade School,83.88
+83,5020,Thomas A. Edison High School,72.64
+84,5050,Philadelphia Military Academy,84.82
+85,5060,Jules E. Mastbaum Area Vocational Technical High School,79.95
+86,5070,Parkway Northwest High School,92.63
+87,5080,Parkway Center City Middle College High School,93.6
+88,5090,Parkway West High School,85.92
+89,5150,William W. Bodine High School,92.75
+90,5160,Penn Treaty High School,78.84
+91,5170,Julia de Burgos School,86.22
+92,5180,Vaux High School: A Big Picture,82.8
+93,5200,Alexander Adaire School,94.8
+94,5210,Henry A. Brown School,89.72
+95,5230,Russell H. Conwell School,92.35
+96,5250,Paul L. Dunbar School,86.89
+97,5260,Lewis Elkin School,85.55
+98,5300,Horatio B. Hackett School,92.23
+99,5320,John F. Hartranft School,84.13
+100,5330,William H. Hunter School,86.8
+101,5340,James R. Ludlow School,87.56
+102,5350,William McKinley School,85.35
+103,5370,John Moffet School,91.64
+104,5390,Potter-Thomas School,85.1
+105,5400,Richmond School,87.36
+106,5410,Isaac A. Sheppard School,89.06
+107,5420,John Welsh School,87.84
+108,5430,Alternative Middle Years at James Martin,90.04
+109,5440,Frances E. Willard School,86.65
+110,5470,William Cramp School,86.9
+111,5480,General Philip Kearny School,87.96
+112,5490,Cayuga School,90.53
+113,5500,Thurgood Marshall School,87.38
+114,5520,Kensington High School for Creative and Performing Arts,76.32
+115,5530,Gloria Casarez Elementary School,87.81
+116,5550,Kensington Health Sciences Academy,83.89
+117,5560,Spring Garden School,89.01
+118,5580,"Stetson, John B. Middle School",89.14
+119,5590,John H. Webster School,86.36
+120,5610,Building 21,91.3
+121,5620,The U School,81.22
+122,5660,The LINC,86.14
+123,5680,Honorable Luis Munoz-Marin School,87.84
+124,5700,Kensington High School,75.4
+125,6010,Central High School,96.46
+126,6030,Roxborough High School,80.4
+127,6040,Walter B. Saul High School,89.87
+128,6050,Philadelphia High School for Girls,90.23
+129,6060,Martin Luther King High School,77.28
+130,6090,A. Philip Randolph Career and Technical High School,83.29
+131,6200,Anna B. Day School,90.37
+132,6210,Franklin S. Edmonds School,90.27
+133,6220,Eleanor C. Emlen School,90.05
+134,6230,Fitler Academics Plus School,92.27
+135,6250,Charles W. Henry School,93.46
+136,6260,Henry H. Houston School,92.32
+137,6270,Jenks Academy for Arts and Sciences,91.96
+138,6300,James Logan School,90.72
+139,6310,John F. McCloskey School,90.7
+140,6320,Thomas Mifflin School,88.48
+141,6340,Joseph Pennell School,89.7
+142,6350,Samuel Pennypacker School,90.44
+143,6360,Theodore Roosevelt School,76.86
+144,6380,Shawmont School,90.75
+145,6390,Edward T. Steel School,85.11
+146,6410,Cook-Wissahickon School,91.36
+147,6440,Anna L. Lingelbach School,92.76
+148,6450,James Dobson School,92.67
+149,6460,Hill-Freedman World Academy,91.8
+150,6470,John B. Kelly School,88.06
+151,6480,Academy for the Middle Years at Northwest,92.94
+152,6540,Lankenau High School,91.57
+153,7010,Frankford High School,78.52
+154,7060,Olney High School,82.76
+155,7100,Jay Cooke School,88.8
+156,7110,Warren G. Harding School,86.93
+157,7120,Samuel Fels High School,83.92
+158,7130,General Louis Wagner School,87.99
+159,7150,Juniata Park Academy,89.86
+160,7200,Clara Barton School,90.61
+161,7220,Laura H. Carnell School,88.57
+162,7260,Ellwood School,90.58
+163,7270,Thomas K. Finletter School,92.32
+164,7280,Benjamin Franklin School,90.4
+165,7290,Allen M. Stearne School,87.56
+166,7300,Francis Hopkinson School,89.17
+167,7310,Feltonville Intermediate School,92.07
+168,7320,Julia W. Howe School,90.36
+169,7330,Henry W. Lawton School,90.54
+170,7350,James R. Lowell School,89.75
+171,7360,John Marshall School,84.97
+172,7370,"Grover Washington, Jr. School",92.04
+173,7380,Alexander K. McClure School,87.96
+174,7390,Andrew J. Morrison School,89.83
+175,7400,Olney School,90.77
+176,7430,James J. Sullivan School,86.13
+177,7440,Bayard Taylor School,87.18
+178,7460,William H. Ziegler School,89.7
+179,7470,Bridesburg School,89.75
+180,7490,Prince Hall School,89.94
+181,7500,Feltonville School of Arts and Sciences,91.26
+182,7510,Mary M. Bethune School,85.35
+183,7530,William Rowen School,88.73
+184,7730,Roberto Clemente School,85.51
+185,8010,Abraham Lincoln High School,82.98
+186,8020,Northeast High School,87.42
+187,8030,George Washington High School,88.42
+188,8040,Arts Academy at Benjamin Rush,92.36
+189,8090,Swenson Arts and Technology High School,89.74
+190,8120,Castor Gardens Middle School,91.58
+191,8130,Northeast Community Propel Academy,89.56
+192,8160,Baldi School,93.2
+193,8200,Ethan Allen School,89.05
+194,8210,Joseph H. Brown School,90.47
+195,8230,Kennedy C. Crossan School,91.49
+196,8240,Hamilton Disston School,87.16
+197,8250,Edwin Forrest School,88.59
+198,8260,Fox Chase School,92.7
+199,8270,Thomas Holme School,90.97
+200,8300,Mayfair School,92.82
+201,8310,J. Hampton Moore School,91.61
+202,8340,Solomon Solis-Cohen School,90.99
+203,8350,Gilbert Spruance School,90.58
+204,8360,Rhawnhurst School,90.98
+205,8370,Watson Comly School,93.44
+206,8380,Louis H. Farrell School,91.62
+207,8390,A.L. Fitzpatrick School,90.1
+208,8400,Anne Frank School,93.92
+209,8410,Robert B. Pollock School,88.54
+210,8420,Stephen Decatur School,91.78
+211,8430,Joseph Greenberg School,95.34
+212,8440,William H. Loesche School,93.69
+213,8560,The Workshop School,94.16
+214,8770,John Hancock Demonstration School,92.32
+215,1010,John Bartram High School,76.7
+216,1020,West Philadelphia High School,85.87
+217,1030,High School of the Future,83.85
+218,1050,Paul Robeson High School for Human Services,92.37
+219,1100,William L. Sayre High School,81.19
+220,1130,William T. Tilden School,88.33
+221,1190,Motivation High School,92.34
+222,1200,John Barry School,80.45
+223,1230,William C. Bryant School,80.42
+224,1250,Joseph W. Catharine School,87.39
+225,1260,Benjamin B. Comegys School,82.53
+226,1280,Sadie Alexander School,96.99
+227,1290,Andrew Hamilton School,81.56
+228,1300,Avery D. Harrington School,83.4
+229,1340,Henry C. Lea School,90.51
+230,1350,William C. Longstreth School,84.69
+231,1360,Morton McMichael School,82.59
+232,1370,S. Weir Mitchell School,82.35
+233,1380,Thomas G. Morton School,87.33
+234,1390,Samuel Powel School,91.06
+235,1400,John M. Patterson School,92.93
+236,1410,James Rhoads School,84.15
+237,1420,Martha Washington School,85.48
+238,1440,Penrose School,84.26
+239,1460,Add B. Anderson School,85.07
+240,1470,Alain Locke School,85.4
+241,1490,Rudolph Blankenburg School,85.36
+242,1580,Middle Years Alternative School,92.0
+243,2000,South Philadelphia High School,72.97
+244,2010,Benjamin Franklin High School,73.48
+245,2020,High School for Creative and Performing Arts,94.77
+246,2050,Science Leadership Academy Middle School,93.61
+247,2140,Julia R. Masterman School,97.32
+248,2160,Furness High School,79.52
+249,2190,D. Newlin Fell School,90.29
+250,2210,Bache-Martin School,88.23
+251,2240,F. Amedee Bregy School,87.56
+252,2260,George W. Childs School,89.18
+253,2290,Franklin Learning Center,88.34
+254,2320,Stephen Girard School,84.47
+255,2340,General George A. McCall School,96.14
+256,2370,Delaplaine McDaniel School,81.57
+257,2380,William M. Meredith School,96.67
+258,2390,Robert Morris School,83.98
+259,2410,Girard Academic Music Program,95.5
+260,2450,Edwin M. Stanton School,89.46
+261,2470,Albert M. Greenfield School,96.17
+262,2480,Chester A. Arthur School,93.29
+263,2490,Laura W. Waring School,84.92
+264,2510,Fanny Jackson Coppin School,94.07
+265,2520,Abram S. Jenks School,93.55
+266,2540,Francis S. Key School,91.21
+267,2580,Eliza B. Kirkbride School,95.28
+268,2590,George W. Nebinger School,93.7
+269,2620,Academy at Palumbo,94.79
+270,2630,George W. Sharswood School,86.86
+271,2640,Southwark School,93.47
+272,2650,Science Leadership Academy,94.4
+273,2670,Constitution High School,90.8
+274,2680,The Science Leadership Academy at Beeber,94.26
+275,2690,John H. Taggart School,90.9
+276,2720,Vare-Washington School,91.46
+277,4020,Overbrook High School,74.61
+278,4030,High School of Engineering and Science,94.03
+279,4060,Murrell Dobbins Career and Technical High School,79.22
+280,4140,Strawberry Mansion High School,74.04
+281,4220,James G. Blaine School,85.31
+282,4240,Lewis C. Cassidy Academics Plus School,93.29
+283,4270,William Dick School,79.7
+284,4280,Samuel Gompers School,90.38
+285,4300,Edward Heston School,82.19
+286,4320,Robert E. Lamberton School,85.93
+287,4350,E. Washington Rhodes School,86.53
+288,4360,Kenderton Elementary School,84.77
+289,4370,Overbrook Elementary School,87.5
+290,4380,Thomas M. Peirce School,82.66
+291,4440,Dr. Ethel Allen School,82.61
+292,4460,Tanner G. Duckrey School,82.59
+293,4470,Richard R. Wright School,80.98
+294,4480,Overbrook Educational Center,93.52
+295,4530,Edward Gideon School,85.13
+296,4560,William D. Kelley School,86.59
+297,4570,General George G. Meade School,83.3
+298,5020,Thomas A. Edison High School,68.85
+299,5050,Philadelphia Military Academy,84.77
+300,5060,Jules E. Mastbaum Area Vocational Technical High School,78.55
+301,5070,Parkway Northwest High School,91.17
+302,5080,Parkway Center City Middle College High School,93.92
+303,5090,Parkway West High School,85.49
+304,5150,William W. Bodine High School,92.78
+305,5160,Penn Treaty High School,83.72
+306,5170,Julia de Burgos School,82.29
+307,5180,Vaux High School: A Big Picture,78.37
+308,5200,Alexander Adaire School,94.7
+309,5210,Henry A. Brown School,88.36
+310,5230,Russell H. Conwell School,90.09
+311,5250,Paul L. Dunbar School,83.33
+312,5260,Lewis Elkin School,83.47
+313,5300,Horatio B. Hackett School,92.42
+314,5320,John F. Hartranft School,78.61
+315,5330,William H. Hunter School,85.75
+316,5340,James R. Ludlow School,85.43
+317,5350,William McKinley School,84.8
+318,5370,John Moffet School,91.28
+319,5390,Potter-Thomas School,81.38
+320,5400,Richmond School,83.12
+321,5410,Isaac A. Sheppard School,83.96
+322,5420,John Welsh School,86.78
+323,5430,Alternative Middle Years at James Martin,89.06
+324,5440,Frances E. Willard School,85.39
+325,5470,William Cramp School,86.87
+326,5480,General Philip Kearny School,84.2
+327,5490,Cayuga School,88.85
+328,5500,Thurgood Marshall School,81.14
+329,5520,Kensington High School for Creative and Performing Arts,76.62
+330,5530,Philip H. Sheridan School,87.6
+331,5550,Kensington Health Sciences Academy,81.37
+332,5560,Spring Garden School,91.28
+333,5590,John H. Webster School,85.21
+334,5610,Building 21,88.07
+335,5620,The U School,84.18
+336,5660,The LINC,82.94
+337,5680,Honorable Luis Munoz-Marin School,85.04
+338,5700,Kensington High School,76.4
+339,6010,Central High School,96.29
+340,6030,Roxborough High School,74.26
+341,6040,Walter B. Saul High School,89.17
+342,6050,Philadelphia High School for Girls,89.7
+343,6060,Martin Luther King High School,73.37
+344,6090,A. Philip Randolph Career and Technical High School,85.0
+345,6200,Anna B. Day School,90.02
+346,6210,Franklin S. Edmonds School,89.51
+347,6220,Eleanor C. Emlen School,89.16
+348,6230,Fitler Academics Plus School,88.23
+349,6250,Charles W. Henry School,93.32
+350,6260,Henry H. Houston School,92.07
+351,6270,Jenks Academy for Arts and Sciences,92.73
+352,6300,James Logan School,90.64
+353,6310,John F. McCloskey School,88.51
+354,6320,Thomas Mifflin School,86.74
+355,6340,Joseph Pennell School,85.28
+356,6350,Samuel Pennypacker School,90.5
+357,6360,Theodore Roosevelt School,78.8
+358,6380,Shawmont School,88.77
+359,6390,Edward T. Steel School,84.41
+360,6410,Cook-Wissahickon School,92.29
+361,6440,Anna L. Lingelbach School,91.07
+362,6450,James Dobson School,92.06
+363,6460,Hill-Freedman World Academy,93.31
+364,6470,John B. Kelly School,87.02
+365,6480,Academy for the Middle Years at Northwest,92.86
+366,6540,Lankenau High School,90.77
+367,7010,Frankford High School,78.05
+368,7100,Jay Cooke School,87.86
+369,7110,Warren G. Harding School,86.99
+370,7120,Samuel Fels High School,80.01
+371,7130,General Louis Wagner School,91.68
+372,7150,Juniata Park Academy,87.52
+373,7200,Clara Barton School,88.79
+374,7220,Laura H. Carnell School,87.22
+375,7260,Ellwood School,88.26
+376,7270,Thomas K. Finletter School,92.14
+377,7280,Benjamin Franklin School,89.4
+378,7290,Allen M. Stearne School,81.95
+379,7300,Francis Hopkinson School,89.05
+380,7310,Feltonville Intermediate School,90.14
+381,7320,Julia W. Howe School,90.26
+382,7330,Henry W. Lawton School,88.3
+383,7350,James R. Lowell School,87.8
+384,7360,John Marshall School,83.41
+385,7370,"Grover Washington, Jr. School",92.89
+386,7380,Alexander K. McClure School,86.2
+387,7390,Andrew J. Morrison School,88.05
+388,7400,Olney School,90.12
+389,7430,James J. Sullivan School,88.54
+390,7440,Bayard Taylor School,86.19
+391,7460,William H. Ziegler School,88.42
+392,7470,Bridesburg School,89.41
+393,7490,Prince Hall School,89.73
+394,7500,Feltonville School of Arts and Sciences,91.09
+395,7510,Mary M. Bethune School,82.57
+396,7530,William Rowen School,89.27
+397,7730,Roberto Clemente School,88.42
+398,8010,Abraham Lincoln High School,82.99
+399,8020,Northeast High School,85.23
+400,8030,George Washington High School,85.13
+401,8040,Arts Academy at Benjamin Rush,93.88
+402,8090,Swenson Arts and Technology High School,90.81
+403,8120,Woodrow Wilson School,91.43
+404,8130,Northeast Community Propel Academy,90.85
+405,8140,Austin Meehan School,85.74
+406,8160,Baldi School,93.4
+407,8200,Ethan Allen School,89.0
+408,8210,Joseph H. Brown School,90.0
+409,8230,Kennedy C. Crossan School,90.73
+410,8240,Hamilton Disston School,84.65
+411,8250,Edwin Forrest School,88.89
+412,8260,Fox Chase School,92.95
+413,8270,Thomas Holme School,91.24
+414,8300,Mayfair School,92.99
+415,8310,J. Hampton Moore School,90.53
+416,8340,Solomon Solis-Cohen School,88.89
+417,8350,Gilbert Spruance School,89.33
+418,8360,Rhawnhurst School,90.76
+419,8370,Watson Comly School,93.3
+420,8380,Louis H. Farrell School,93.03
+421,8390,A.L. Fitzpatrick School,89.75
+422,8400,Anne Frank School,94.78
+423,8410,Robert B. Pollock School,90.66
+424,8420,Stephen Decatur School,90.03
+425,8430,Joseph Greenberg School,96.33
+426,8440,William H. Loesche School,93.34
+427,8560,The Workshop School,93.92
+428,8770,John Hancock Demonstration School,92.29
+429,1010,John Bartram High School,77.41
+430,1020,West Philadelphia High School,87.0
+431,1030,High School of the Future,86.89
+432,1050,Paul Robeson High School for Human Services,98.65
+433,1100,William L. Sayre High School,85.32
+434,1130,William T. Tilden School,88.65
+435,1190,Motivation High School,95.48
+436,1200,John Barry School,79.16
+437,1230,William C. Bryant School,75.05
+438,1250,Joseph W. Catharine School,88.18
+439,1260,Benjamin B. Comegys School,80.34
+440,1280,Sadie Alexander School,98.68
+441,1290,Andrew Hamilton School,81.22
+442,1300,Avery D. Harrington School,83.45
+443,1340,Henry C. Lea School,87.15
+444,1350,William C. Longstreth School,78.31
+445,1360,Morton McMichael School,82.21
+446,1370,S. Weir Mitchell School,80.19
+447,1380,Thomas G. Morton School,82.98
+448,1390,Samuel Powel School,92.07
+449,1400,John M. Patterson School,93.08
+450,1410,James Rhoads School,81.71
+451,1420,Martha Washington School,81.66
+452,1440,Penrose School,83.02
+453,1460,Add B. Anderson School,80.86
+454,1470,Alain Locke School,86.7
+455,1490,Rudolph Blankenburg School,83.57
+456,1580,Middle Years Alternative School,96.54
+457,2000,South Philadelphia High School,82.22
+458,2010,Benjamin Franklin High School,78.01
+459,2020,High School for Creative and Performing Arts,99.06
+460,2050,Science Leadership Academy Middle School,98.23
+461,2140,Julia R. Masterman School,99.44
+462,2160,Furness High School,81.52
+463,2190,D. Newlin Fell School,90.34
+464,2210,Bache-Martin School,91.19
+465,2240,F. Amedee Bregy School,85.4
+466,2260,George W. Childs School,87.52
+467,2290,Franklin Learning Center,91.97
+468,2320,Stephen Girard School,82.66
+469,2340,General George A. McCall School,97.48
+470,2370,Delaplaine McDaniel School,82.6
+471,2380,William M. Meredith School,98.82
+472,2390,Robert Morris School,82.07
+473,2410,Girard Academic Music Program,98.72
+474,2450,Edwin M. Stanton School,92.84
+475,2470,Albert M. Greenfield School,98.61
+476,2480,Chester A. Arthur School,95.02
+477,2490,Laura W. Waring School,89.01
+478,2510,Andrew Jackson School,94.61
+479,2520,Abram S. Jenks School,94.87
+480,2540,Francis S. Key School,91.68
+481,2580,Eliza B. Kirkbride School,94.78
+482,2590,George W. Nebinger School,91.0
+483,2620,Academy at Palumbo,98.28
+484,2630,George W. Sharswood School,85.43
+485,2640,Southwark School,92.86
+486,2650,Science Leadership Academy,98.27
+487,2670,Constitution High School,95.07
+488,2680,The Science Leadership Academy at Beeber,98.86
+489,2690,John H. Taggart School,94.37
+490,2720,Vare-Washington School,91.63
+491,4020,Overbrook High School,77.89
+492,4030,High School of Engineering and Science,99.42
+493,4060,Murrell Dobbins Career and Technical High School,85.67
+494,4140,Strawberry Mansion High School,82.86
+495,4220,James G. Blaine School,81.73
+496,4240,Lewis C. Cassidy Academics Plus School,82.28
+497,4270,William Dick School,82.93
+498,4280,Samuel Gompers School,90.84
+499,4300,Edward Heston School,80.95
+500,4320,Robert E. Lamberton School,86.78
+501,4350,E. Washington Rhodes School,86.5
+502,4360,Kenderton Elementary School,83.34
+503,4370,Overbrook Elementary School,88.37
+504,4380,Thomas M. Peirce School,81.59
+505,4440,Dr. Ethel Allen School,79.56
+506,4460,Tanner G. Duckrey School,74.2
+507,4470,Richard R. Wright School,78.42
+508,4480,Overbrook Educational Center,94.5
+509,4530,Edward Gideon School,78.26
+510,4560,William D. Kelley School,78.72
+511,4570,General George G. Meade School,77.54
+512,5020,Thomas A. Edison High School,80.87
+513,5050,Philadelphia Military Academy,88.77
+514,5060,Jules E. Mastbaum Area Vocational Technical High School,82.96
+515,5070,Parkway Northwest High School,96.85
+516,5080,Parkway Center City Middle College High School,96.58
+517,5090,Parkway West High School,87.25
+518,5150,William W. Bodine High School,97.92
+519,5160,Penn Treaty High School,85.71
+520,5170,Julia de Burgos School,82.55
+521,5180,Vaux High School: A Big Picture,88.79
+522,5200,Alexander Adaire School,95.91
+523,5210,Henry A. Brown School,89.72
+524,5230,Russell H. Conwell School,91.99
+525,5250,Paul L. Dunbar School,88.68
+526,5260,Lewis Elkin School,85.94
+527,5300,Horatio B. Hackett School,91.36
+528,5320,John F. Hartranft School,74.63
+529,5330,William H. Hunter School,87.6
+530,5340,James R. Ludlow School,85.56
+531,5350,William McKinley School,85.18
+532,5370,John Moffet School,91.24
+533,5390,Potter-Thomas School,83.29
+534,5400,Richmond School,88.26
+535,5410,Isaac A. Sheppard School,80.49
+536,5420,John Welsh School,82.59
+537,5430,Alternative Middle Years at James Martin,85.2
+538,5440,Frances E. Willard School,81.57
+539,5470,William Cramp School,81.76
+540,5480,General Philip Kearny School,89.63
+541,5490,Cayuga School,90.36
+542,5500,Thurgood Marshall School,81.18
+543,5520,Kensington High School for Creative and Performing Arts,81.57
+544,5530,Philip H. Sheridan School,87.72
+545,5550,Kensington Health Sciences Academy,86.78
+546,5560,Spring Garden School,90.42
+547,5590,John H. Webster School,88.47
+548,5610,Building 21,88.67
+549,5620,The U School,89.08
+550,5660,The LINC,84.79
+551,5680,Honorable Luis Munoz-Marin School,81.58
+552,5700,Kensington High School,78.77
+553,6010,Central High School,99.35
+554,6030,Roxborough High School,81.79
+555,6040,Walter B. Saul High School,97.21
+556,6050,Philadelphia High School for Girls,96.96
+557,6060,Martin Luther King High School,75.22
+558,6090,A. Philip Randolph Career and Technical High School,90.53
+559,6200,Anna B. Day School,89.35
+560,6210,Franklin S. Edmonds School,93.15
+561,6220,Eleanor C. Emlen School,90.24
+562,6230,Fitler Academics Plus School,91.57
+563,6250,Charles W. Henry School,95.97
+564,6260,Henry H. Houston School,94.49
+565,6270,Jenks Academy for Arts and Sciences,94.41
+566,6300,James Logan School,90.32
+567,6310,John F. McCloskey School,90.39
+568,6320,Thomas Mifflin School,89.4
+569,6340,Joseph Pennell School,85.39
+570,6350,Samuel Pennypacker School,87.44
+571,6360,Theodore Roosevelt School,81.04
+572,6380,Shawmont School,93.52
+573,6390,Edward T. Steel School,79.56
+574,6410,Cook-Wissahickon School,93.84
+575,6440,Anna L. Lingelbach School,92.22
+576,6450,James Dobson School,94.26
+577,6460,Hill-Freedman World Academy,96.5
+578,6470,John B. Kelly School,80.74
+579,6480,Academy for the Middle Years at Northwest,96.07
+580,6540,Lankenau High School,98.81
+581,7010,Frankford High School,77.92
+582,7100,Jay Cooke School,87.26
+583,7110,Warren G. Harding School,85.25
+584,7120,Samuel Fels High School,84.92
+585,7130,General Louis Wagner School,91.12
+586,7150,Juniata Park Academy,91.75
+587,7200,Clara Barton School,89.87
+588,7220,Laura H. Carnell School,87.83
+589,7260,Ellwood School,89.7
+590,7270,Thomas K. Finletter School,93.18
+591,7280,Benjamin Franklin School,90.18
+592,7290,Allen M. Stearne School,82.91
+593,7300,Francis Hopkinson School,88.95
+594,7310,Feltonville Intermediate School,88.83
+595,7320,Julia W. Howe School,89.93
+596,7330,Henry W. Lawton School,90.46
+597,7350,James R. Lowell School,87.89
+598,7360,John Marshall School,82.67
+599,7370,"Grover Washington, Jr. School",94.04
+600,7380,Alexander K. McClure School,82.58
+601,7390,Andrew J. Morrison School,86.91
+602,7400,Olney School,85.95
+603,7430,James J. Sullivan School,88.25
+604,7440,Bayard Taylor School,81.71
+605,7460,William H. Ziegler School,85.86
+606,7470,Bridesburg School,91.28
+607,7490,Prince Hall School,86.48
+608,7500,Feltonville School of Arts and Sciences,95.11
+609,7510,Mary M. Bethune School,73.77
+610,7530,William Rowen School,89.06
+611,7730,Roberto Clemente School,90.05
+612,8010,Abraham Lincoln High School,92.05
+613,8020,Northeast High School,92.63
+614,8030,George Washington High School,90.91
+615,8040,Arts Academy at Benjamin Rush,98.02
+616,8090,Swenson Arts and Technology High School,95.12
+617,8120,Woodrow Wilson School,94.69
+618,8140,Austin Meehan School,91.65
+619,8160,Baldi School,98.06
+620,8200,Ethan Allen School,91.05
+621,8210,Joseph H. Brown School,94.29
+622,8230,Kennedy C. Crossan School,92.89
+623,8240,Hamilton Disston School,84.19
+624,8250,Edwin Forrest School,90.26
+625,8260,Fox Chase School,95.75
+626,8270,Thomas Holme School,93.86
+627,8300,Mayfair School,94.78
+628,8310,J. Hampton Moore School,94.51
+629,8340,Solomon Solis-Cohen School,93.4
+630,8350,Gilbert Spruance School,90.02
+631,8360,Rhawnhurst School,94.87
+632,8370,Watson Comly School,96.81
+633,8380,Louis H. Farrell School,95.77
+634,8390,A.L. Fitzpatrick School,91.55
+635,8400,Anne Frank School,97.58
+636,8410,Robert B. Pollock School,91.3
+637,8420,Stephen Decatur School,93.27
+638,8430,Joseph Greenberg School,98.13
+639,8440,William H. Loesche School,95.96
+640,8560,The Workshop School,87.51
+641,8770,John Hancock Demonstration School,94.76
